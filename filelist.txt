@@ -1,0 +1,105 @@
+Folder PATH listing for volume OS
+Volume serial number is A878-A311
+C:.
+¦   auth.py
+¦   command_engine.py
+¦   config.json
+¦   config.py
+¦   eventbus.py
+¦   filehandler.py
+¦   filelist.txt
+¦   gui.py
+¦   health.py
+¦   input_handler.py
+¦   main.py
+¦   memory.py
+¦   memory_manager.py
+¦   model.py
+¦   persona.py
+¦   plugins.py
+¦   scheduler.py
+¦   self_trigger_audit.jsonl
+¦   test_connection.py
+¦   utils.py
+¦   voice.py
+¦   
++---backups
++---dropbox
++---engine
+¦   ¦   auth.py
+¦   ¦   auto_builder.py
+¦   ¦   auto_upgrader.py
+¦   ¦   brain.py
+¦   ¦   codegen.py
+¦   ¦   code_generator.py
+¦   ¦   config.py
+¦   ¦   evolver.py
+¦   ¦   llm_bridge.py
+¦   ¦   logger.py
+¦   ¦   memory_manager.py
+¦   ¦   remote_dropper.py
+¦   ¦   self_trigger.py
+¦   ¦   self_upgrader.py
+¦   ¦   task_listener.py
+¦   ¦   task_planner.py
+¦   ¦   upgrade_installer.py
+¦   ¦   upgrade_scheduler.py
+¦   ¦   upgrade_service.py
+¦   ¦   upgrade_trigger.py
+¦   ¦   upgrade_utils.py
+¦   ¦   upgrade_watcher.py
+¦   ¦   vivian_brain.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---commands
+¦   ¦       upgrade_command.py
+¦   ¦       
+¦   +---__pycache__
+¦           auto_upgrader.cpython-310.pyc
+¦           codegen.cpython-310.pyc
+¦           remote_dropper.cpython-310.pyc
+¦           self_trigger.cpython-310.pyc
+¦           task_listener.cpython-310.pyc
+¦           upgrade_installer.cpython-310.pyc
+¦           upgrade_scheduler.cpython-310.pyc
+¦           upgrade_service.cpython-310.pyc
+¦           upgrade_trigger.cpython-310.pyc
+¦           upgrade_utils.cpython-310.pyc
+¦           vivian_brain.cpython-310.pyc
+¦           __init__.cpython-310.pyc
+¦           
++---generated_code
++---knowledge
++---memory
+¦       history.jsonl
+¦       
++---modules
+¦       analytics.py
+¦       
++---plugins
+¦   ¦   echo.py
+¦   ¦   
+¦   +---__pycache__
+¦           echo.cpython-310.pyc
+¦           
++---upgrades
+¦   +---auto_applied
+¦   +---backups
+¦   +---signatures
++---web
+¦   ¦   server.py
+¦   ¦   
+¦   +---__pycache__
+¦           server.cpython-310.pyc
+¦           
++---__pycache__
+        config.cpython-310.pyc
+        gui.cpython-310.pyc
+        input_handler.cpython-310.pyc
+        memory.cpython-310.pyc
+        model.cpython-310.pyc
+        plugins.cpython-310.pyc
+        scheduler.cpython-310.pyc
+        utils.cpython-310.pyc
+        voice.cpython-310.pyc
+        
