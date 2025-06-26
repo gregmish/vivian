@@ -1,0 +1,38 @@
+{"time": "2025-06-18T09:04:33.431703", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:04:33.433087", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750237473.4330876}, "meta": {}}
+{"time": "2025-06-18T09:07:33.438004", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:07:33.439006", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750237653.4390066}, "meta": {}}
+{"time": "2025-06-18T09:19:52.176711", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:19:52.176711", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750238392.1767118}, "meta": {}}
+{"time": "2025-06-18T09:21:33.184768", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:21:33.184768", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750238493.1847684}, "meta": {}}
+{"time": "2025-06-18T09:24:33.213239", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:24:33.214237", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750238673.2142377}, "meta": {}}
+{"time": "2025-06-18T09:26:57.009171", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:26:57.010325", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750238817.0103254}, "meta": {}}
+{"time": "2025-06-18T09:29:57.016877", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:29:57.016877", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750238997.016878}, "meta": {}}
+{"time": "2025-06-18T09:31:17.356743", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:31:17.359035", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750239077.3590355}, "meta": {}}
+{"time": "2025-06-18T09:32:57.699740", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:32:57.702805", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750239177.700743}, "meta": {}}
+{"time": "2025-06-18T09:33:42.908848", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:33:42.908848", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750239222.908848}, "meta": {}}
+{"time": "2025-06-18T09:38:14.110438", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:38:14.110438", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750239494.110438}, "meta": {}}
+{"time": "2025-06-18T09:41:17.110889", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T09:41:17.113347", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750239677.1133478}, "meta": {}}
+{"time": "2025-06-18T10:12:09.967737", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T10:12:09.970782", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750241529.9687843}, "meta": {}}
+{"time": "2025-06-18T10:19:51.055218", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T10:19:51.055218", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750241991.0552185}, "meta": {}}
+{"time": "2025-06-18T10:22:51.064879", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T10:22:51.064879", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750242171.06488}, "meta": {}}
+{"time": "2025-06-18T10:25:51.072253", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T10:25:51.072253", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750242351.0722535}, "meta": {}}
+{"time": "2025-06-18T10:31:05.708250", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T10:31:05.708250", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750242665.7082508}, "meta": {}}
+{"time": "2025-06-18T10:34:05.719089", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T10:34:05.719089", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750242845.7190893}, "meta": {}}
+{"time": "2025-06-18T12:00:53.483475", "event": "agent_alert", "data": {"event": "selftrigger_error", "data": {"error": "'CodeGenerator' object has no attribute 'meta'"}}, "meta": {}}
+{"time": "2025-06-18T12:00:53.483475", "event": "agent_metric", "data": {"metric": "selftrigger_idle", "value": 1750248053.4834754}, "meta": {}}
